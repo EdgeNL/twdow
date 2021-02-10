@@ -1,0 +1,25 @@
+01 Clear 40 Raider Bases.
+02 Heavy Pack 50 cards Contains at least 6 Epics, 1 Legendary
+03 Rescue 200 survivors and take them to any Armory.
+04 Rescue 150 survivors and take them to any Shelter.
+05 Exterminate walkers by clearing 40 Infestations.
+06 Win 80 battles against Rare Missions with any sniper rifle Hero. 
+07 Conserve ammunition. Take down 400 Slim Walkers with headshots, using any pistol.
+08 Lone wolf. One group member must take down 25 Rotten Walkers with grenades.
+09 Medium Pack 19 cards Contains at least 4 Epics, 1 Legendary
+10 Lone wolf. One group member needs to build or upgrade 1 Armorys.
+11 Win 50 battles at level 14+ Raider Missions with Glenn Rhee.
+12 Conserve Ammunition. Take down 1400 Regular Walkers with headshots, using any Epic weapon.
+13 Lone wolf. One group member must take down 3 Spiked Walkers with grenades.
+14 Lone wolf. One group member needs to pick up 15 Supply Crates.  
+15 Lone wolf. One group member needs to build or upgrade 1 Shelters. 
+16 Win 30 battles against Epic Missions with any Hero wearing headgear.
+17 Conserve Ammunition. Take down 350 Rotten Walkers with headshots. using any Shotgun.
+18 Lone wolf. One group member needs to take down 15 Slim Walkers with grenades.
+19 Shortage. Pick up 200 Supply Crates to refill your stores.
+20 Light Pack 11 cards Contains at least 4 Rares, 2 Epics
+21 Take down 900 Armored Walkers with any Sniper Rifle.
+22 Take down 200 Raiders with any Pistol.
+23 Take down 150 Spiked Walkers with any SMG.
+24 Take down 3500 Walkers with any Epic weapon.
+25 Take down 400 Heavy Walkers with any Assault Rifle.
