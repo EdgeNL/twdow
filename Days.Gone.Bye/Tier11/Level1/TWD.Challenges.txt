@@ -1,0 +1,25 @@
+01 Clear 20 Raider Bases.
+02 Exterminate walkers by clearing 12 different Infestations.
+03 Shortage. Pick up 125 Supply Crates to refill your stores.
+04 Win 125 battles at level 11+ rescue missions with any shotgun Hero.
+05 Win 15 battles against Epic Missions with Legendary Eugene.
+06 Lone wolf. One Group member needs to clear 15 Infestations.
+07 Exterminate walkers by clearing 40 Infestations.
+08 Lone wolf. One Group member needs to pick up 10 Supply Crates.
+09 Win 35 battles at level 11+ Raider Missions with any Hero wearing headgear
+10 Win 25 battles at level 11+ Whisperer Encounters with any pistol Hero.
+11 Heavy Pack 23 cards Contains at least 5 Epics, 1 Legendary
+12 Rescue 125 survivors and take them to any Armory.
+13 Rebuilding civilization. Build or upgrade 4 Trading Posts.
+14 Rescue 125 survivors and take them to any Trading Post.
+15 Take down 800 Rotten Walkers with any Shotgun.
+16 Take down 50 Spiked Walkers with Lynx SMG.
+17 Conserve Ammunition. Take down 100 Heavy Walkers with headshots, using any Assault Rifle.
+18 Light Pack 9 cards Contains at least 3 Rares, 2 Epics
+19 Conserve Ammunition. Take down 125 Armored Walkers with headshots, using any Sniper Rifle.
+20 Take down 15 Whisperers with any Bow.
+21 Take down 125 Raiders with any Rare weapon.
+22 Rescue 100 survivors and take them to any Shelter.
+23 Conserve Ammunition. Take down 200 Slim Walkers with headshots, using any Pistol.
+24 Rescue 100 survivors and take them to any Warehouse.
+25 Medium Pack 15 cards Contains at least 5 Rares, 3 Epics
