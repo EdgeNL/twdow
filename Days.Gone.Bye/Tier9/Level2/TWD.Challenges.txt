@@ -1,0 +1,25 @@
+01 Exterminate walkers by clearing 20 different Infestations.
+02 Medium Pack 15 cards Contains at least 5 Rares, 3 Epics
+03 Rescue 200 survivors and take them to any Safe House.
+04 Rescue 125 survivors and take them to any Armory.
+05 Clear 35 Raider Bases.
+06 Win 30 battles at level 10+ Whisperer Encounters with any sniper rifle Hero.
+07 Conserve Ammunition. Take down 10 Whisperers with headshots, using any Bow.
+08 Take down 100 Armored Walkers with grenades.
+09 Light Pack 9 cards Contains at least 3 Rares, 2 Epics
+10 Lone wolf. One Group member needs to build or upgrade 1 Armorys.
+11 Win 300 battles at level 10+ Encounters with any shotgun Hero.
+12 Conserve Ammunition.Take down 200 Heavy Walkers with headshots, using any Assault Rifle.
+13 Take down 200 Slim Walkers with grenades.
+14 Loot the entire area by claiming 40 different Supply Crate sites.
+15 Rebuilding civilization. Build or upgrade 10 Safe Houses.
+16 Win 80 battles against Rare Missions with Legendary Rick.
+17 Conserve Ammunition. Take down 250 Armored Walkers with headshots, using any Sniper Rifle.
+18 Take down 700 Regular Walkers with grenades.
+19 Shortage. Pick up 200 Supply Crates to refill your stores.
+20 Heavy Pack 23 cards Contains at least 7 Rares, 4 Epics
+21 Take down 200 Raiders with any Epic weapon.
+22 Take down 1000 Slim Walkers with any Pistol.
+23 Take down 1600 Rotten Walkers with any Shotgun.
+24 Take down 80 Spiked Walkers with Ocelot SMG.
+25 Take down 4500 Walkers with any Epic weapon.
